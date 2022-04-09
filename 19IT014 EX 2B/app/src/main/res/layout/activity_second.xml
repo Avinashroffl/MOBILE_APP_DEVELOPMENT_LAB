@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context=".SecondActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <GridView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:columnWidth="130dp"
+        android:gravity="center"
+        android:numColumns="auto_fit"
+        android:id="@+id/mainGridView1"/>
+
+</LinearLayout>
