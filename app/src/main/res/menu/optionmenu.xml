@@ -14,4 +14,8 @@
         android:id="@+id/td"
         android:title="Team Details"
         app:showAsAction="never"/>
+    <item
+        android:id="@+id/sa"
+        android:title="B'day Alert"
+        app:showAsAction="never"/>
 </menu>
