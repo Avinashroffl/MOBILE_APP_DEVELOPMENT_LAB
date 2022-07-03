@@ -1,0 +1,10 @@
+ex2a layout
+ex2b widgets
+ex2d menu(option context popup) 
+ex3 menu status notification
+ex4 practice dialogue notification timed alarm timepicker back button exit progress dilaog
+ex5 location and gmap
+ex5a shared preference
+ex6 multimedia
+ex7 hardware support
+ex8 case study
